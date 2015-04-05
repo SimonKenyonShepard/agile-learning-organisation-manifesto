@@ -23,3 +23,9 @@ The goal of an agile learning organisation should be to enable learners to learn
 #Education anti-patterns
 
 ## Ranking and annual exams
+
+> Evaluation of performance, merit rating, or annual review… The idea of a merit rating is alluring. the sound of the words captivates the imagination: pay for what you get; get what you pay for; motivate people to do their best, for their own good. The effect is exactly the opposite of what the words promise.
+
+W. Edwards Deming
+
+Our current notion of annual testing is based on a push system. Students (or work in agile terminolgy) is pushed into a quality assurance process (standardised testing) to test their level of completeness. In the majority of cases the students are not complete (otherwise they would all get 100%) but even so are then pushed into the next queue of processing (the next topic for understanding). The antidote to this madness is a pull based system. Once students reach a level of completeness they then should be pulled into the next queue of processing. 
